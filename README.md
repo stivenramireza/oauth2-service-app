@@ -1,4 +1,4 @@
-# OAuth2 Service NuxtJS
+# OAuth2 Service App
 
 Service authentication with social media like Google, Facebook and Twitter.
 
